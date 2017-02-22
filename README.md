@@ -1,1 +1,1 @@
-# brillo-examples
+# android-things-examples
